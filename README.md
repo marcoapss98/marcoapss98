@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **Python, Machine Learning e Database**
 
-- 👨‍💻 Você pode encontrar alguns dos meus projetos em [https://acesse.one/XOnHM](https://acesse.one/XOnHM)
+- 👨‍💻 Você pode encontrar alguns dos meus projetos em Power BI em [https://acesse.one/XOnHM](https://acesse.one/XOnHM)
 
 - 📫 Você pode me contatar através do e-mail **marcoapss98@gmail.com**
 
