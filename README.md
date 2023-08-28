@@ -12,7 +12,9 @@
 <!-- Most used languages -->
   <img width="40%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoapss98&layout=compact&hide_border=true&title_color=47ab1f&text_color=c9d1d9&bg_color=000000" />
 
-<!-- Languages icons -->
+
+
+<!-- Languages/tool icons -->
 </div>
 <h3 align="left">Main skills:</h3>
 <p align="left">
@@ -23,6 +25,13 @@
   <img align="center" alt="Rafa-Js" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
+<h3 align="left">Improving skills:</h3>
+<p align="left">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+
+  
 <!-- Linkedin link -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
